@@ -1,9 +1,11 @@
 import streamlit as st
 
-st.title("Nastars-Bakery🥨🌸")
+st.title("Nastars-Bakery
+🥨🍒")
 st.write("Find your sweet food at this place (*^ω^)")
 st.image("dc50297e933a6c84a806232607af4a73.jpg")
 st.write("Choose Your Favorite Cake")
+
 st.image("3de28c91a675305ab3f05292ef85682c.jpg")
 st.image("c8b7dc90b245c51fbff7ed2703a63599 (1).jpg")
 
